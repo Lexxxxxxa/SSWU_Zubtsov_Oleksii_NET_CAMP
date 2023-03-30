@@ -30,7 +30,7 @@
                         Console.Write(cube[i, j, k] + " ");
                     }
                     Console.WriteLine();
-                }  
+                }
                 Console.WriteLine();
             }
         }

@@ -1,7 +1,7 @@
 ﻿namespace Task_1
 {
     internal class Task_1
-    {
+    {//bkkvj
         static void Main(string[] args)
         {
             Console.WriteLine("Enter matrix size");
@@ -61,7 +61,7 @@
             {
                 for (int j = 0; j < m; ++j)
                 {
-                    Console.Write(matrix[i, j] + " ");
+                    Console.Write(matrix[i, j] + "\t");
                 }
                 Console.WriteLine();
             }

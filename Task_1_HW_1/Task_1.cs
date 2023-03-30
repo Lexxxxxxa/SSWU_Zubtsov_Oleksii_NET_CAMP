@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter matrix size");
+            Console.WriteLine("Enter matrix size!");
             Console.Write("Row ");
             int n = int.Parse(Console.ReadLine());
             Console.Write("Columns ");

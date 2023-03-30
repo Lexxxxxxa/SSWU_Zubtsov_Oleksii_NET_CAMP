@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3_HW_1", "Task_3_HW_1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_HW_2", "Task_1_HW_2\Task_1_HW_2.csproj", "{7EB5B218-F978-4A9B-9C7B-97208355497D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "C:\Users\zubco\source\repos\SSWU_Zubtsov_Oleksii_NET_CAMP\Home_work_1\Task_1_HW_1\Task_1.csproj", "{D82FDBAF-3591-4C12-B20A-40532B17F123}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{7EB5B218-F978-4A9B-9C7B-97208355497D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB5B218-F978-4A9B-9C7B-97208355497D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB5B218-F978-4A9B-9C7B-97208355497D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82FDBAF-3591-4C12-B20A-40532B17F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82FDBAF-3591-4C12-B20A-40532B17F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82FDBAF-3591-4C12-B20A-40532B17F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82FDBAF-3591-4C12-B20A-40532B17F123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{ADA7B678-0989-4526-B6D7-612B3BAA38CA} = {9B0EB361-346F-4FC3-9289-924A5936FE9A}
 		{FEF79169-ECF5-4915-B0B0-0055FB82415F} = {9B0EB361-346F-4FC3-9289-924A5936FE9A}
 		{7EB5B218-F978-4A9B-9C7B-97208355497D} = {671AFEED-02D5-4EA7-985B-E2383DED9C31}
+		{D82FDBAF-3591-4C12-B20A-40532B17F123} = {9B0EB361-346F-4FC3-9289-924A5936FE9A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {687B920C-3BF3-437C-88FB-DDC3A442E319}

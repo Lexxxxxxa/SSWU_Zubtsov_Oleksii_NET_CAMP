@@ -68,7 +68,7 @@
                 }
             }
 
-            if (maxSequenceLength == 0)
+            if (maxSequenceLength == 1)
             {// Одна точка вже утворює лінію, довжиною 1. Тому ця умова мала б не виконуватись...
                 Console.WriteLine("Sequence not found");
             }

@@ -1,7 +1,8 @@
 ﻿namespace Task_1
 {
     internal class Task_1
-    {
+    {// Вітаю.   Вас правильна структура організації репозиторію.
+        // Але ми дмовились, що мислимо об'єктно-зорієнтовано і не скидаємо розв'язок всієї проблеми в Main!!!
         static void Main(string[] args)
         {
             Console.WriteLine("Enter matrix size!");
@@ -19,11 +20,11 @@
             int startRow = 0;
             int endRow = n - 1;
             int endCol = m - 1;
-
+            // У Вас досить добрий алгоритм. Але можна спробувати оптимізувати умову 24 стрічки 
             while (startRow <= endRow && startColumns <= endCol)
             {
                 for (int i = startRow; i <= endRow; ++i)
-                {
+                {// Дві стрічки можна об'єднувати
                     matrix[i, startColumns] = snake;
                     snake++;
                 }

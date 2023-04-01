@@ -51,7 +51,7 @@
                             startIndex = j;
                         }
                         sequenceLength++;
-
+// Ви на кожній точці намагаєтесь порівнювати з максимальною довжиною, тоді як зміна максиму може бути тільки, коли відбувається зміна кольору.Є надлишковість перевірок
                         if (sequenceLength >= maxSequenceLength)
                         {
                             maxSequenceLength = sequenceLength;
@@ -69,7 +69,7 @@
             }
 
             if (maxSequenceLength == 0)
-            {
+            {// Одна точка вже утворює лінію, довжиною 1. Тому ця умова мала б не виконуватись...
                 Console.WriteLine("Sequence not found");
             }
             else

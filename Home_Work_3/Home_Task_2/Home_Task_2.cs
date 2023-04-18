@@ -1,7 +1,7 @@
 ﻿namespace Home_Task_2
 {
     internal class Home_Task_2
-    {
+    {//діаграма зовсім не правильна. Немає класу помпи. Клас задачі як мінімум використовує інші класи. Взаємозв'язки між класами побудовані не правильно.
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the text");

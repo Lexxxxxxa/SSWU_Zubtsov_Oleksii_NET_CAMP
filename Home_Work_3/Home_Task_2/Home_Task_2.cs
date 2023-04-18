@@ -59,6 +59,7 @@
                     words[i] = replacementText;
                 }
             }
+            // Загублено початковий розподіл пробільних символів.
             return string.Join(" ", words);
         }
     }

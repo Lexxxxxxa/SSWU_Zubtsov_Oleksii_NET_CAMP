@@ -1,5 +1,5 @@
 ﻿namespace Task_1_HW_2
-{
+{// ідея цікава і не додумана. Все дуже сиро.
     internal class Task_1
     {
         static void Main(string[] args)

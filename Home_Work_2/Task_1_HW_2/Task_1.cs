@@ -6,7 +6,7 @@
         {
 
         }
-
+// Це мав бути інтерфейс.
         abstract class WaterEssence { public abstract void UpdateState(); }
 
         class WaterTower : WaterEssence

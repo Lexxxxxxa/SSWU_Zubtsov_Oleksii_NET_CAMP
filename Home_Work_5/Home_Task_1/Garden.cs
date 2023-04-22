@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace Home_Task_1
 {
     class Garden : IComparable<Garden>
-    {
+    {// порушення інкапсуляції!
         public double[] TreeCoordinates { get; set; }
-
+// не розв'язано проблему(((
         public double CalculateFenceLength()
         {
             double fenceLength = 0.0;

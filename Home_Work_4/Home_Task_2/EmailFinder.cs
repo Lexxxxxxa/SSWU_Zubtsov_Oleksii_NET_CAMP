@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Home_Task_2
 {
     class EmailFinder
-    {
+    {// Цей регулярний вираз не розв'язав би повністю проблему.
         private const string emailRegex = @"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b";
         private const string atWordRegex = @"\b\w+@\w+\b";
 

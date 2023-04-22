@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Home_Task_1
 {
     class TextProcessor
-    {
+    {// За умовою задачі текст не може бути в одній стрічці(
         private string text;
 
         public TextProcessor(string text)

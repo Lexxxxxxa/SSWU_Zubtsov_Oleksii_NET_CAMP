@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Home_Task_2
-{
+{// тільки початкові сутності. Немає алгоритму розв'язку. Ця задача є складною. Найкраще її розв'язувати, використавши паттерн компонувальник.
+    
     public class Store
     {
         public string Name { get; set; }

@@ -1,7 +1,8 @@
 ﻿namespace Home_Task_3
 {
     public class Home_Task_3
-    {
+    {// Не побачила копії екрану для виконання завдання 
+        // задача розв'язується в Main, не ООП.
         public static void Main()
         {
             string filename = "data.txt";

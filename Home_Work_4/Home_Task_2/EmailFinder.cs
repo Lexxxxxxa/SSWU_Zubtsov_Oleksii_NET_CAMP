@@ -16,7 +16,7 @@ namespace Home_Task_2
         {
             List<string> emails = new List<string>();
             List<string> atWords = new List<string>();
-
+// за домовленістю цю задачу слід було розв'язувати без регулярних виразів.
             MatchCollection emailMatches = Regex.Matches(text, emailRegex);
             foreach (Match match in emailMatches)
             {

@@ -1,5 +1,5 @@
 ﻿namespace Home_Task_1
-{
+{// Oleksii	Zubtsov		85	5	0	85	75	30	20	61,5
     internal class Program
     {
         static void Main(string[] args)
